@@ -222,7 +222,11 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (>= 3.0.5, < 3.2)
+<<<<<<< HEAD
   pg (~> 1.1.4)
+=======
+  pg
+>>>>>>> 0851e45ea7e9a5321ac6dbdf68899964d3507898
   puma (~> 3.11)
   rails (~> 5.2.2)
   sass-rails (~> 5.0)
